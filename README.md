@@ -1,4 +1,4 @@
-# Aigo
+# Amigo
 
 ## Learning how to work with git
 
